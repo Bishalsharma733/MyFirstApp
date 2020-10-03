@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">notion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="NotionNotebook">Notebook</string>
+    <string name="NotionNote">Note</string>
+    <string name="NotionNotes">Notes</string>
+    <string name="NotionNotebooks">Notebooks</string>
+    <string name="NotionProfile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="title_section1">Notebooks</string>
+    <string name="title_section2">Notes</string>
+    <string name="title_section3">Archive</string>
+    <string name="title_section4">Trash</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="facebook_app_id">884810131605384</string>
+    <string name="test_name">Tylor Garrett</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_save">Save</string>
+
+    <string name="notion_header">CS182 Discrete Math</string>
+    <string name="notion_subheader">13 Notes</string>
+
+    <string name="profile_settings">Profile Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="user_settings">User</string>
+    <string name="notebook_settings">Notebook Settings</string>
+    <string name="notebook_edits">Add new notebooks, remove current notebooks, and change the names of current notebooks.</string>
+    <string name="note_settings">Note Settings</string>
+    <string name="note_edits">Delete current notes.</string>
+
+    <string name="select_course">Select Course</string>
+    <string name="select_section">Select Section</string>
+
+    <string name="add_subscription">Add New Notebook</string>
+    <string name="delete_notebook">Delete Notebook</string>
+
+    <string name="settings_content">Content</string>
+    <string name="profile_school_label">School: </string>
+    <string name="profile_edits">View your profile settings including default school, name and profile picture.</string>
+    <string name="profile_image">Profile Image</string>
+
+    <string name="notebook_name">Notebook Name</string>
+    <string name="notebook_empty">Add notebooks using the button below!</string>
+
+    <string name="note_content_hint">Add your note content here</string>
+
+    <string name="new_note_name">New Note Name</string>
+</resources>
